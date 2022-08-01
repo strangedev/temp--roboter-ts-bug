@@ -1,0 +1,23 @@
+{
+  "name": "temp--roboter-ts-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strangedev/temp--roboter-ts-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strangedev/temp--roboter-ts-bug/issues"
+  },
+  "homepage": "https://github.com/strangedev/temp--roboter-ts-bug#readme",
+  "devDependencies": {
+    "roboter": "13.1.0"
+  }
+}
